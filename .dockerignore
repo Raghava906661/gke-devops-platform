@@ -1,0 +1,12 @@
+.git
+.github
+terraform
+k8s
+tests
+scripts
+*.md
+.venv
+__pycache__
+.pytest_cache
+.ruff_cache
+.coverage
